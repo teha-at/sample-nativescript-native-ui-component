@@ -1,0 +1,25 @@
+{
+  "name": "sample-nativescript-native-ui-component",
+  "version": "1.0.0",
+  "description": "Sample repository to show the code for a simple native iOS component for NativeScript + Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teha-at/sample-nativescript-native-ui-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teha-at/sample-nativescript-native-ui-component/issues"
+  },
+  "homepage": "https://github.com/teha-at/sample-nativescript-native-ui-component#readme",
+  "devDependencies": {
+    "@angular/core": "^11.2.0",
+    "@nativescript/angular": "^11.0.1",
+    "@nativescript/core": "^7.2.1",
+    "@nativescript/types": "^7.2.0"
+  }
+}
